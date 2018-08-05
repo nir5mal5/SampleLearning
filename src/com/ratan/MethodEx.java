@@ -15,7 +15,7 @@ public class MethodEx
  }
 	public static void main(String[] args)
 	{
-		MethodEx m=new MethodEx ();
+		MethodEx merst=new MethodEx ();
 		XYZ x=new XYZ();
 		Emp e=new Emp();
 		//m.m1(newXYZ(),new EMP());
